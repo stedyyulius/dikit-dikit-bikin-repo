@@ -1,0 +1,13 @@
+{
+  "name": "dikit-dikit-bikin-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/stedyyulius/dikit-dikit-bikin-repo.git",
+  "author": "stedyyulius <stedyyulius@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.2.0"
+  }
+}
